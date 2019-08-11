@@ -8,8 +8,6 @@
  *
  * @author Windows10
  */
-public class Employee {
-    public static void main(String[] args) {
-        
-    }
+public class Man {
+    
 }
